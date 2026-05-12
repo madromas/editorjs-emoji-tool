@@ -6,7 +6,7 @@ var editor = EditorJS({
 
   tools: {
     ...
-    code: CodeTool,
+    emoji: NativeEmoji,
   }
 
   ...
